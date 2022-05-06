@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 1. HTML, CSS, Vanilla JS 자유롭게 구현
 2. 클린코딩
 
-현재는 이 두가지를 목표로 다양한 웹 사이트를 클론코딩하고 있습니다.
+현재는 이 두가지를 목표로 주로 클론코딩을 하고있습니다.
 
 Vanilla JS가 익숙해지면 TypeScript와 React를 좀 더 알아보고 싶습니다.
 
