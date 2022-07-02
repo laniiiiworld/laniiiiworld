@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 HTML, CSS, Vanilla JS 사용에 익숙하고, 현재는 리팩토링에 신경쓰며 TypeScript를 배우고 있습니다.
 
----
+
 ## 사용중인 기술들🤹‍♀️
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![Vanilla JS](https://img.shields.io/badge/-JavaScript-F05032?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
