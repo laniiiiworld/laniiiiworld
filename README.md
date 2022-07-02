@@ -10,15 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 # 🎡Welcome to Laniiiworld🎡
 안녕하세요! 프론트엔드 개발자 이랑(Lani)입니다.
-1. HTML, CSS, Vanilla JS 자유롭게 구현
-2. 클린코딩
-
-현재는 이 두가지를 목표로 주로 클론코딩을 하고있습니다.
-
-Vanilla JS가 익숙해지면 TypeScript와 React를 좀 더 알아보고 싶습니다.
+HTML, CSS, Vanilla JS 사용에 익숙하고, 현재는 리팩토링에 신경쓰며 TypeScript를 배우고 있습니다.
 
 ---
 ## 사용중인 기술들🤹‍♀️
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![Vanilla JS](https://img.shields.io/badge/-JavaScript-F05032?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-007acc?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23f7df1c?style=for-the-badge&logo=css3&logoColor=23ffce5a)
