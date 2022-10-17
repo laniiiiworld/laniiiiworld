@@ -1,25 +1,25 @@
-<!---
-laniiiiworld/laniiiiworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laniiiiworld&layout=compact)](https://github.com/laniiiiworld/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laniiiiworld&show_icons=true&hide=stars,prs)
 
-- 👋 Hi, I’m @laniiiiworld
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-# 🎡Welcome to Laniiiworld🎡
-안녕하세요! 프론트엔드 개발자 이랑(Lani)입니다.
-
-HTML, CSS, Vanilla JS 사용에 익숙하고, 현재는 리팩토링에 신경쓰며 TypeScript를 배우고 있습니다.
-
-
-## 사용중인 기술들🤹‍♀️
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
-![Vanilla JS](https://img.shields.io/badge/-JavaScript-46a2f1?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-43853d?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-2da44e?style=for-the-badge&logo=css&logoColor=23ffce5a)
-![Media Query](https://img.shields.io/badge/-MediaQuery-c3e0a3?style=for-the-badge&logo=MediaQuery&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23f7df1c?style=for-the-badge&logo=Git&logoColor=ffffff)
-![Prettier](https://img.shields.io/badge/-Prettier-c0a3e0?style=for-the-badge&logo=Prettier&logoColor=ffffff)
-<!--##클론코딩 프로젝트들 데모-->
+## :sparkles: Technology Stacks
+- Front-End: 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff)
+![Create React App](https://img.shields.io/badge/-CreateReactApp-09D3AC?style=flat&logo=CreateReactApp&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=ffffff)
+![React Hook](https://img.shields.io/badge/-ReactHook-3178C6?style=flat&logo=ReactHook&logoColor=ffffff)
+![React Router](https://img.shields.io/badge/-ReactRouter-CA4245?style=flat&logo=ReactRouter&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS&logoColor=ffffff)
+![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat&logo=PostCSS&logoColor=ffffff)
+- Database: ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=ffffff)
+- Deployment: 
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=ffffff)
+- VCS: 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=ffffff)
+- Tools: 
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=ffffff)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=Prettier&logoColor=ffffff)
+![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=CodePen&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=ffffff)
