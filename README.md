@@ -1,6 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laniiiiworld&layout=compact)](https://github.com/laniiiiworld/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laniiiiworld&show_icons=true)
-
 ## :sparkles: Technology Stacks
 - Front-End: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
