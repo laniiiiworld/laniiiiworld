@@ -2,10 +2,7 @@
 - Front-End: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=ffffff)
-![Create React App](https://img.shields.io/badge/-CreateReactApp-09D3AC?style=flat&logo=CreateReactApp&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=ffffff)
-![React Hook](https://img.shields.io/badge/-ReactHook-3178C6?style=flat&logo=ReactHook&logoColor=ffffff)
-![React Router](https://img.shields.io/badge/-ReactRouter-CA4245?style=flat&logo=ReactRouter&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS&logoColor=ffffff)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat&logo=PostCSS&logoColor=ffffff)
