@@ -24,6 +24,7 @@
 
 - 배포: 
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=Netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=ffffff)
 
 - VCS: 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=ffffff)
